@@ -5,6 +5,7 @@ public class javaTestApp {
 
 		System.out.println("Hi GitHub!");
 		System.out.println("I'm Master!");
+		System.out.println("Is it works?");
 		
 	}
 
