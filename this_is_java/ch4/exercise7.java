@@ -2,7 +2,7 @@ package ch4;
 
 public class exercise7 {
 
-	public static void main(String[] args) throws Exception { // 키보드 입력에 따라 기능을 수행하는 코드
+	public static void main(String[] args) throws Exception { // 키보드 입력에 따라 기능을 수행하는 코드 스캐너x
 
 		boolean run = true;
 
