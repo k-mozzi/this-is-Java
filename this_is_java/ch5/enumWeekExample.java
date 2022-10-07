@@ -41,7 +41,7 @@ public class enumWeekExample {
 			System.out.println("today is SUNDAY");
 		} else {
 			System.out.println("today is not SUNDAY");
-		}
+		} //sd
 
 	}
 
